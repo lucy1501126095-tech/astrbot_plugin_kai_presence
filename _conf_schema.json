@@ -1,0 +1,8 @@
+{
+  "napcat_api_base": {
+    "type": "string",
+    "description": "NapCat HTTP API 地址",
+    "default": "http://napcat:3000",
+    "hint": "NapCat 的 HTTP API 地址，同 Docker 网络下用容器名如 http://napcat:3000"
+  }
+}

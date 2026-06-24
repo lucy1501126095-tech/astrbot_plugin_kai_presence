@@ -1,0 +1,6 @@
+name: astrbot_plugin_kai_presence
+desc: "Kai 的 QQ 自主行为插件 —— 自主修改个性签名、头像、在线状态"
+version: "1.0.0"
+author: "Kai & Sweetie"
+repo: "https://github.com/lucy1501126095-tech/astrbot_plugin_kai_presence"
+star_cls_name: "KaiPresencePlugin"
